@@ -1,0 +1,11 @@
+cd productManagementBackend
+nano .gitignore
+
+node_modules/
+# .env
+.DS_Store
+*.log
+uploads/
+
+shalinisinhacspatna_db_user
+6cFRgGf8wMfuh24z
